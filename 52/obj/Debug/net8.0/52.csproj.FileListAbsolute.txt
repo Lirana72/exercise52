@@ -1,0 +1,15 @@
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\bin\Debug\net8.0\52.exe
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\bin\Debug\net8.0\52.deps.json
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\bin\Debug\net8.0\52.runtimeconfig.json
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\bin\Debug\net8.0\52.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\bin\Debug\net8.0\52.pdb
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.csproj.AssemblyReference.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.GeneratedMSBuildEditorConfig.editorconfig
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.AssemblyInfoInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.AssemblyInfo.cs
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.csproj.CoreCompileInputs.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\refint\52.dll
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.pdb
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\52.genruntimeconfig.cache
+F:\Лина\Учеба\Тестирование\Homework\Homework7\exercise52\52\obj\Debug\net8.0\ref\52.dll
